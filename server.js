@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/ui/'https://thumb1.shutterstock.com/display_pic_with_logo/1058333/126256238/stock-vector-illustration-of-cartoon-dog-126256238.jpg', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
+  res.sendFile(path.join(__dirname, 'ui', 'https://thumb1.shutterstock.com/display_pic_with_logo/1058333/126256238/stock-vector-illustration-of-cartoon-dog-126256238.jpg'));
 });
 
 
